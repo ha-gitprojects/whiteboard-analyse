@@ -20,7 +20,12 @@ venv/
 Thumbs.db
 
 # Logs
+logs
 *.log
+
+# Temporary files
+tmp/
+temp/
 
 #Whiteboard Outputs
 whiteboard_exports/
