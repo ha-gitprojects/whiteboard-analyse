@@ -149,7 +149,7 @@ def verarbeite_whiteboard(bild_datei):
 with gr.Blocks(title="Classroom Whiteboard to Structured Notes") as demo:
     gr.Markdown(
         """
-        # 🧑‍🏫 Classroom Whiteboard → Structured Notes
+        # Classroom Whiteboard → Structured Notes
 
         Dieses Tool demonstriert, wie KI Vorlesungstafeln analysiert
         und daraus strukturierte Lernmaterialien und Lernkarten erzeugt.
