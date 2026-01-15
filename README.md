@@ -1,4 +1,3 @@
-# whiteboard-analyse
 # Whiteboard to Structured Notes
 
 Kleines Side-Projekt, das zeigt, wie Fotos von Vorlesungstafeln mit KI
